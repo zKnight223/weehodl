@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAAA,KACE,QACF,CAEA,IACE,qBACF","file":"main.c01b6169.chunk.css","sourcesContent":["body {\n  margin: 0;\n}\n\ndiv {\n  box-sizing: border-box;\n}\n"]}
